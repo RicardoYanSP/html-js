@@ -27,5 +27,6 @@ let temPet = false;
 
 const idade = 28;
 
-
+let dataCadastro = new Date();
+console.log(dataCadastro)
 
